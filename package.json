@@ -1,0 +1,25 @@
+{
+  "name": "necta-tz",
+  "version": "1.0.0",
+  "description": "npm package for NECTA results",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matayo-ayo/necta-tz.git"
+  },
+  "keywords": [
+    "tz",
+    "necta",
+    "result",
+    "exams"
+  ],
+  "author": "Matayo Ayo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matayo-ayo/necta-tz/issues"
+  },
+  "homepage": "https://github.com/matayo-ayo/necta-tz#readme"
+}
